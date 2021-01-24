@@ -21,6 +21,7 @@
 6. 網絡匿名技術，數字隱私和反操縱。[「編程隨想」](https://program-think.blogspot.com/), [PrivacyTools](https://www.privacytools.io/), [Prism Break](https://prism-break.org/), [Tails OS](https://tails.boum.org/), [Whonix](https://www.whonix.org/)。数字反抗者不应信任任何机构，对中共安全部門、美國FBI、Google等都应一视同仁。（核心）
 
 课程目标： 训练思维、掌握世界结构、网络反跟踪基础\
-课程要求： 中文、英文、无阅读障碍、爱自由
+课程要求： 中文、英文、无阅读障碍、爱自由\
+学时估计： 完成每项约需1个月 (不轻松)
 
 延伸阅读 [观点](https://nodebe4.github.io/opinion/) [达摩俱乐部](https://damoresclub.github.io/) 
