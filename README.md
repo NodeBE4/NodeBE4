@@ -25,3 +25,5 @@
 课程要求： 中文、英文、无阅读障碍、爱自由\
 学时估计： 完成每大项需1个月 (不轻松)\
 延伸阅读： [观点](https://nodebe4.github.io/opinion/)， [达摩俱乐部](https://damoresclub.github.io/) 
+
+[BE4回忆录](./bio.md)
